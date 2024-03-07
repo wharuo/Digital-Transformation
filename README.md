@@ -9,6 +9,5 @@
 
 ![Static Badge](https://img.shields.io/badge/Status-Portfolio_in_Development-64FF1FFF)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=github-wesley&layout=compact&theme=radical)
 
 
