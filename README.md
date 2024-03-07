@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=64FF1F&random=false&width=435&lines=Front+End+Developer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Front+End+Developer)
 
 
 <h4 align="left">I am a skilled Front-End professional with a solid academic background, including an MBA in Project Management. I am certified in Meta's Front-End course, demonstrating my expertise in creating responsive interfaces and engaging user experiences.</h4>
@@ -9,5 +9,6 @@
 
 ![Static Badge](https://img.shields.io/badge/Status-Portfolio_in_Development-64FF1FFF)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=github-wesley&layout=compact&theme=moltack)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=github-wesley&layout=compact&theme=radical)
+
 
