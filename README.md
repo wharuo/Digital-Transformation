@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Front+End+Developer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Front+End+Developer+&+Business+Analyst)
 
 
 <h4 align="left">I am a skilled Front-End and Business Analyst professional with a solid academic background, including an MBA in Project Management. I am certified in Meta's Front-End course, demonstrating my expertise in creating responsive interfaces and engaging user experiences.</h4>
