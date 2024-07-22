@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&size=25&duration=2000&pause=2000&color=00FF6D&background=FFFFFF00&random=false&width=435&lines=Business+Analyst+%2F+Developer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Software+Engineer+%7C+Business+Analyst+)](https://git.io/typing-svg)
 
 
 <h4 align="left"></h4>
