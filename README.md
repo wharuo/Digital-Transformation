@@ -1,11 +1,11 @@
 
 ![Static Badge](https://img.shields.io/badge/Status-Portfolio_in_Development-64FF1FFF)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Software+Engineer+%7C+Business+Analyst+%7C+Technology+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Software+Engineer)](https://git.io/typing-svg)
 
 ## Hi there, I'm Wesley! 👋
 
-I'm a passionate **Software Engineer and Business Analyst** with extensive experience in various sectors. I excel in bridging the gap between technical teams and stakeholders, driving business success through technology.
+I'm a passionate **Software Engineer ** with extensive experience in various sectors. I excel in bridging the gap between technical teams and stakeholders, driving business success through technology.
 
 ### 🌟 Professional Skills:
 
