@@ -1,6 +1,4 @@
 
-![Static Badge](https://img.shields.io/badge/Status-Portfolio_in_Development-64FF1FFF)
-
 
 ## Hi there, I'm Wesley! 👋
 
