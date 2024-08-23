@@ -3,17 +3,6 @@
 ## Hi there, I'm Wesley! 👋
 
 I'm a passionate **Software Engineer ** with extensive experience in various sectors. I excel in bridging the gap between technical teams and stakeholders, driving business success through technology.
-
-### 🌟 Professional Skills:
-
-- Designing, coding, and maintaining web applications
-- Bridging the gap between technical teams and stakeholders
-- Project management methodologies
-- Data analysis using SQL and Excel
-- Creating intuitive dashboards and interfaces
-- Comprehensive reporting and managing datasets
-- Financial control and project cost management
-
 ### 🛠️ Languages and Tools:
 
 <p align="left">
