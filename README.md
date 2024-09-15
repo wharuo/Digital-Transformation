@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Wesley! 👋
 
-I'm a passionate **Software Engineer ** with extensive experience in various sectors. I excel in bridging the gap between technical teams and stakeholders, driving business success through technology.
+I'm a passionate **Software Developer ** with extensive experience in various sectors. I excel in bridging the gap between technical teams and stakeholders, driving business success through technology.
 ### 🛠️ Languages and Tools:
 
 <p align="left">
