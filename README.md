@@ -12,16 +12,17 @@
     </td>
     <td>
       <p align="left">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding GIF" />
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
       </p>
     </td>
   </tr>
 </table>
 ---
+
 ## 🛠️ Technical Skills  
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" alt="Rocket Animation" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="Rocket Animation" />
   <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,flask,git,github,aws,azure,tableau,powerbi" alt="Technical Skills" />
 </div>
 
@@ -30,7 +31,7 @@
 ## 🌟 What I Do  
 
 <div align="center">
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="200" alt="Working on Solutions" />
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300" alt="Working on Solutions" />
 </div>
 
 - **Software Development:** Designing and building efficient, scalable, and maintainable software solutions.  
@@ -42,9 +43,10 @@
 
 ## 🌍 Continuous Learning  
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=highcontrast" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" alt="Thinking Animation" />
+</p>
+
 
 - Exploring advanced **Machine Learning** techniques.  
 - Building **cloud-native** applications on **AWS** and **Azure**.  
