@@ -17,7 +17,7 @@
     </td>
   </tr>
 </table>
----
+
 
 ## 🛠️ Technical Skills  
 
