@@ -21,7 +21,7 @@
 ## 🛠️ Technical Skills  
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100" alt="Rocket Animation" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" alt="Rocket Animation" />
   <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,flask,git,github,aws,azure,tableau,powerbi" alt="Technical Skills" />
 </div>
 
