@@ -30,7 +30,7 @@
 ## 🌟 What I Do  
 
 <div align="center">
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="400" alt="Working on Solutions" />
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="200" alt="Working on Solutions" />
 </div>
 
 - **Software Development:** Designing and building efficient, scalable, and maintainable software solutions.  
