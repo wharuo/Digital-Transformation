@@ -46,10 +46,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=highcontrast" alt="GitHub Streak" />
 </div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" alt="Thinking Animation" />
-</p>
-
 - Exploring advanced **Machine Learning** techniques.  
 - Building **cloud-native** applications on **AWS** and **Azure**.  
 - Learning how to develop **microservices** for scalable systems.  
