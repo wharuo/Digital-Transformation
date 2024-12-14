@@ -8,7 +8,7 @@ Hello! I'm a passionate software developer and data analyst dedicated to creatin
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+There!+👋+I'm+a+Software+Developer;Data+Analyst+%7C+Problem-Solver;Building+Scalable+and+Innovative+Solutions!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+There!+👋+I'm+a+Software+Developer;Data+Analyst+%7C;Building+Scalable+and+Innovative+Solutions!" alt="Typing SVG" />
 </p>
 
 ---
