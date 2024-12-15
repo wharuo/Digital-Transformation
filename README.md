@@ -1,4 +1,4 @@
-# 👨‍💻 Welcome to My GitHub Profile  
+#  Welcome to My GitHub Profile  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=1000&lines=Hi+There!+👋+I'm+a+Software+Developer+Data+Analyst;Building+Scalable+and+Innovative+Solutions!" alt="Typing SVG" />
 </p>
@@ -19,7 +19,7 @@
 </table>
 
 
-## 🛠️ Technical Skills  
+##  Technical Skills  
 
 <div align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="Rocket Animation" />
@@ -28,7 +28,7 @@
 
 ---
 
-## 🌟 What I Do  
+## What I Do  
 
 <div align="center">
   <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300" alt="Working on Solutions" />
@@ -41,7 +41,7 @@
 
 ---
 
-## 🌍 Continuous Learning  
+##  Continuous Learning  
 
 <p align="center">
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" alt="Thinking Animation" />
@@ -54,7 +54,7 @@
 
 ---
 
-## 📬 Let’s Connect  
+##  Connect  
 
 <p align="center">
   <a href="https://linkedin.com/in/wesleyhk" target="_blank">
