@@ -1,6 +1,6 @@
 #  Welcome to My GitHub Profile  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=1000&lines=Hi+There!+👋+I'm+a+Software+Developer+Data+Analyst;Building+Scalable+and+Innovative+Solutions!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=1000&lines=Hi!+I'm+a+Software+Developer,+Data+Analyst;Building+Scalable+and+Innovative+Solutions!" alt="Typing SVG" />
 </p>
 
 <table>
